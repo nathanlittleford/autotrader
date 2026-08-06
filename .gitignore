@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+autotrader.db
+autotrader.log
+lessons.json
+lessons_backup_*.json
+portfolio.json
+.DS_Store
+reports/
